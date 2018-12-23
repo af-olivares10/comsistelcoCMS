@@ -96,6 +96,16 @@
   font-size: 40px;
   border-bottom: 1px #e5ce58 solid;
 }
+.image-input-wrapper{
+  margin:  10px 0 0 0;
+}
+.image-label{
+  color: black;
+  font-size: 20px;
+}
+.image-input{
+  color: black;
+}
 .new-section-content,.new-section-title{
   width: 50%;
   margin: 10px 10% ;
